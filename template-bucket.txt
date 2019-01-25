@@ -1,0 +1,7 @@
+{
+    "Resources": {
+        "new-bucket-created-with-cloudformation" : {
+            "Type" : "AWS::S3::Bucket"
+        }
+    }
+}

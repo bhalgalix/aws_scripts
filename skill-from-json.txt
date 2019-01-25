@@ -1,0 +1,8 @@
+{
+  "Type" : "Alexa::ASK::Skill",
+  "Properties" : {
+    "AuthenticationConfiguration" : AuthenticationConfiguration,
+    "SkillPackage" : SkillPackage,
+    "VendorId" : M12DFA5OZASSSW
+  }
+}
