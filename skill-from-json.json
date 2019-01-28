@@ -1,0 +1,11 @@
+{
+    "Type" : "Alexa::ASK::Skill",
+    "Properties" : {
+      "AuthenticationConfiguration" : {
+            "ClientId": "amzn1.application-oa2-client...",
+            "ClientSecret": "...",
+            "RefreshToken": "..."          },
+      "SkillPackage" : SkillPackage,
+      "VendorId" : ...
+    }
+  }
