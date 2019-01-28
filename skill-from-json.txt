@@ -3,6 +3,6 @@
   "Properties" : {
     "AuthenticationConfiguration" : AuthenticationConfiguration,
     "SkillPackage" : SkillPackage,
-    "VendorId" : M12DFA5OZASSSW
+    "VendorId" : ...
   }
 }
